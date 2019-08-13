@@ -5,4 +5,18 @@ Description: This is the first child theme created by Alys
 Template: twentysixteen
 */
 
-/* testing */
+/* home */
+.home h1 {
+	color: crimson;
+}
+
+.home h2, .home h3 {
+	color: #CC941D;
+}
+
+.home p {
+	color: red;
+}
+.home .site-branding .site-title a {
+	color: #1DCC93;
+}
