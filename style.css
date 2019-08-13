@@ -20,3 +20,8 @@ Template: twentysixteen
 .home .site-branding .site-title a {
 	color: #1DCC93;
 }
+
+/* team-page template */
+.page-template-template-team-page {
+	background-color: green;
+}
